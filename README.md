@@ -78,7 +78,7 @@ skills:
 fun_facts:
   - "I turn coffee into code ☕→💻"
   - "My code works 60% of the time, every time"
-  - "I speak fluent: English, Python, Sarcasm"
+  - "I speak fluent: English, Swahili, Kikuyu, Python, Sarcasm"
   - "Git commit messages are my diary"
   - "I've restarted my PC more times than you've blinked"
   
