@@ -1,9 +1,9 @@
-# 🚀 Welcome to the BIGG BOSS Zone! 
+# 🚀 Welcome to the Kamaria Jackson Zone! 
 
 <div align="center">
 
 <!-- Epic Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=BIGG%20BOSS%20🎮&fontSize=100&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Elite%20Systems%20Architect%20%7C%20Security%20Ninja%20%7C%20Cloud%20Wizard%20%7C%20Code%20Magician%20✨&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Kamaria%20Jackson%20🎮&fontSize=100&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Elite%20Systems%20Architect%20%7C%20Security%20Ninja%20%7C%20Cloud%20Wizard%20%7C%20Code%20Magician%20✨&descAlignY=60&descSize=20" width="100%"/>
 
 <!-- Multi-Line Animated Typing -->
 <a href="https://git.io/typing-svg">
